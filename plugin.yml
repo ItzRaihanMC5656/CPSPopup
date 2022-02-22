@@ -1,0 +1,7 @@
+name: CPSPopup
+version: 1.0.0
+main: Inaayat\CPSPopup\Main
+api: [4.0.0]
+author: Inaayat
+converter: RhaxDev
+editor: RhaxDev
